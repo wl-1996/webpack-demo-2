@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fe539fc-ba84-41b4-93e9-d19cc5e3a020" name="Default Changelist" comment="" />
+    <list default="true" id="9fe539fc-ba84-41b4-93e9-d19cc5e3a020" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -13,6 +18,7 @@
     </layout>
   </component>
   <component name="ProjectId" id="1aVwYLYMwjWC8S9CmFeIsopjLIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -51,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586834118892</updated>
       <workItem from="1586834127991" duration="18944000" />
-      <workItem from="1586915100165" duration="12293000" />
+      <workItem from="1586915100165" duration="12850000" />
     </task>
     <servers />
   </component>
@@ -67,9 +73,9 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="1019" y="268" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.826@0.0.1536.826" timestamp="1586836989736" />
-    <state x="815" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1586938947119">
+    <state x="815" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1586944511742">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="815" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1586938947119" />
+    <state x="815" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1586944511742" />
   </component>
 </project>
